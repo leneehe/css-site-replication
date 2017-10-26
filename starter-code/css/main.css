@@ -49,10 +49,10 @@ header {
 
 .login {
   width: 20%;
-  margin: auto;
+  margin: 5px auto;
   float: right;
   color: white;
-  padding: 5px;
+  padding: 3px;
 }
 
 img.login {
@@ -63,7 +63,7 @@ img.login {
 }
 span.login {
   display: inline-block;
-  line-height: 1.2em
+  line-height: 1.2em;
   font-weight: bold;
   float: left;
 
@@ -98,6 +98,8 @@ ul {
   display: inline-block;
   text-transform: uppercase;
   padding: 20px 0;
+  font-size: .8em;
+  font-weight: 500;
 }
 
 li {
